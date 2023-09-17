@@ -8,4 +8,4 @@
 Image uploading is one of the most important functionalities of any back-end project because many images are required on a website, such as product images, category images, profile images, etc. We can upload these images to the Codeigniter website using CodeIgniter's image upload functionality.
 
 
-Read: 👉 [https://www.buildwithphp.com/how-to-create-codeigniter-3-crud-application-using-mysql-with-example](https://www.buildwithphp.com/how-to-create-codeigniter-3-crud-application-using-mysql-with-example)
+Read: 👉 [https://www.buildwithphp.com/how-to-upload-image-in-codeigniter-with-database-example](https://www.buildwithphp.com/how-to-upload-image-in-codeigniter-with-database-example)
